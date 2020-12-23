@@ -7,8 +7,8 @@ Installation
 * Install Python 3.x.
 * Install the `bsddb3` module (if you're on Windows, use Gohlke's site).
 * pip3 install bsddb3
-* Install the `request` module:
-*    pip3 install request
+* Install the `requests` module:
+*    pip3 install requests
 
 Extracting private keys from Bitcoin-QT/Litecoin-QT wallets
 -----------------------------------------------------------
